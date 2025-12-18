@@ -24,7 +24,7 @@ This project implements an AI-driven system for predicting individual carbon foo
 ## 🚀 Demo
 
 - **Live Application**: [https://carbon-footprint-predictions.streamlit.app/]
-- **Video Demo**: [Link to demonstration video]
+- **Video Demo**: [https://gismauniversity-my.sharepoint.com/:v:/g/personal/meghana_tadas_gisma-student_com/IQCjoblDOaMWT7ldlMwNvncCARQN06MZUEHR1xtfkaI_CfY?e=MoYUkO]
 
 ## 📊 Dataset
 
