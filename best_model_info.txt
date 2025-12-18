@@ -1,0 +1,7 @@
+Best Model: Linear Regression
+R² Score: 0.4213
+RMSE: 775.69
+MAE: 609.32
+
+Model trained on 8000 samples
+Tested on 2000 samples
